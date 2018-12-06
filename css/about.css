@@ -1,0 +1,44 @@
+.main{
+    margin: 0 auto;
+    width:100%;
+}
+
+.col{
+    border:2px groove red;
+    height:700px;
+    width:30%;
+    float:left;
+    margin-top:200px;
+    margin-left:50px;
+    text-align: justify;
+    padding-top:25px;
+}
+
+.col:hover{
+    border:2px groove blue;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.aovvalors{
+    height:250px;
+    width:125px;
+    display: block;    /*<------use this to center images*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.saber{
+    display: block;    /*<------use this to center images*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+iframe{
+    display: block;    /*<------use this to center images*/
+    margin-left: auto;
+    margin-right: auto;
+}
